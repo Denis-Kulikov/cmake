@@ -1,0 +1,7 @@
+*.o
+*.a
+*.d
+
+build/*
+!build/cmake.sh
+!build/CMakeLists.txt
