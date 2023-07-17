@@ -1,7 +1,4 @@
-#pragma once
-
-#include <stdio.h>
-#include <stdio.h>
+#include "print.h"
 
 void f_print ()
 {
