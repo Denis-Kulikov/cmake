@@ -2,6 +2,10 @@
 *.a
 *.d
 
+bin/*
+!bin/.keep
+
 build/*
 !build/cmake.sh
 !build/CMakeLists.txt
+!build/Makefile
